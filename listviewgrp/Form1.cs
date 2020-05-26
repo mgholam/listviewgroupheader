@@ -46,8 +46,6 @@ namespace listviewgrp
                 lvi.Group = grp;
                 listView1.Items.Add(lvi);
             }
-            //listView1.AutoResizeColumns(ColumnHeaderAutoResizeStyle.ColumnContent);
-
         }
     }
 }
